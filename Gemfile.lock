@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    fitgem (0.12.1)
+      oauth
+    oauth (0.4.7)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  fitgem
+
+BUNDLED WITH
+   1.10.6
